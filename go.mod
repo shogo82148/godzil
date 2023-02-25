@@ -14,6 +14,5 @@ require (
 	github.com/natefinch/atomic v0.0.0-20150920032501-a62ce929ffcc
 	github.com/rakyll/statik v0.1.6
 	github.com/tcnksm/go-gitconfig v0.1.3-0.20150505151006-6411ba19847f
-	golang.org/x/crypto v0.0.0-20191105034135-c7e5f84aec59 // indirect
-	golang.org/x/sys v0.0.0-20191105142833-ac3223d80179 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 )
